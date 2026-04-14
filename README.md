@@ -1,2 +1,3 @@
 # Research-Assignment
-This assignment builds a foundation in data analytics, covering all the key terms, terminologies, and technologies used in the field of data. It strengthens my research, analytical, and problem-solving skills, supporting my transition into data science.
+This assignment builds a strong foundation in data analytics by covering all the key terms, terminologies, and technologies used in the data field. It enhances my research, analytical thinking, and problem-solving skills as I explore how data is collected, processed, and applied in real-world scenarios. 
+By engaging with these concepts, I am developing the knowledge and mindset required to work effectively with data. This assignment also supports my transition into a data science career, allowing me to build on my existing technical background while gaining relevant data-focused skills.
